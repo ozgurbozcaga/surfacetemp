@@ -4,7 +4,7 @@ This repository contains replication code and data for visualizing global surfac
 
 ## Repository Structure
 
-- **`your_notebook.ipynb`**: The Jupyter notebook containing the replication code for generating the temperature trend plot. The notebook reads the dataset and generates a plot similar to the one on the linked webpage.
+- **`Temp_anomaly.ipynb`**: The Jupyter notebook containing the replication code for generating the temperature trend plot. The notebook reads the dataset and generates a plot similar to the one on the linked webpage.
 - **`temp.xlsx`**: The Excel file containing the temperature data used for the analysis. This dataset is used to replicate the surface temperature plot.
 - **`README.md`**: This file, which provides details about the repository contents and instructions for use.
 
